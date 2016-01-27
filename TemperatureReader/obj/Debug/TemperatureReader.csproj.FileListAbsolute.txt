@@ -1,0 +1,8 @@
+D:\praca\1wire\rus\Ds18B20Reader\TemperatureReader\bin\Debug\TemperatureReader.exe.config
+D:\praca\1wire\rus\Ds18B20Reader\TemperatureReader\bin\Debug\TemperatureReader.exe
+D:\praca\1wire\rus\Ds18B20Reader\TemperatureReader\bin\Debug\TemperatureReader.pdb
+D:\praca\1wire\rus\Ds18B20Reader\TemperatureReader\bin\Debug\Ds18B20Reader.dll
+D:\praca\1wire\rus\Ds18B20Reader\TemperatureReader\bin\Debug\Ds18B20Reader.pdb
+D:\praca\1wire\rus\Ds18B20Reader\TemperatureReader\obj\Debug\TemperatureReader.csprojResolveAssemblyReference.cache
+D:\praca\1wire\rus\Ds18B20Reader\TemperatureReader\obj\Debug\TemperatureReader.exe
+D:\praca\1wire\rus\Ds18B20Reader\TemperatureReader\obj\Debug\TemperatureReader.pdb

@@ -1,0 +1,6 @@
+D:\praca\1wire\rus\Ds18B20Reader\Ds18B20Reader\bin\Debug\Ds18B20Reader.pdb
+D:\praca\1wire\rus\Ds18B20Reader\Ds18B20Reader\obj\Debug\Ds18B20Reader.pdb
+D:\praca\1wire\rus\Ds18B20Reader\Ds18B20Reader\obj\Debug\Ds18B20Reader.csprojResolveAssemblyReference.cache
+D:\praca\1wire\rus\Ds18B20Reader\Ds18B20Reader\bin\Debug\Ds18B20Reader.dll.config
+D:\praca\1wire\rus\Ds18B20Reader\Ds18B20Reader\bin\Debug\Ds18B20Reader.dll
+D:\praca\1wire\rus\Ds18B20Reader\Ds18B20Reader\obj\Debug\Ds18B20Reader.dll
