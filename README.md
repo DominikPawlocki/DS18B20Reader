@@ -3,6 +3,7 @@
 Visual Studio 2015 and .NET 4.5.2.
 
 Ds18B20Reader	--> This is DLL where the things are done
+
 TemperatureReader --> This is usage EXAMPLE only
 
 Please see Wiki pages to get more info !
